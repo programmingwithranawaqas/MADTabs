@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MADTabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_status_fragment">Hello Status fragment</string>
+    <string name="hello_call_fragment">Hello Call fragment</string>
+    <string name="hello_chat_fragment">Hello Chat fragment</string>
+</resources>
